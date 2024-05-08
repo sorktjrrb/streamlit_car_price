@@ -4,7 +4,7 @@ import seaborn as sb
 import matplotlib.pyplot as plt
 
 def run_eda() :
-    st.subheader('탐색적 데이터 분석')
+    st.subheader('탐색적 데이터 분석!')
 
     st.text('데이터프레임 보기 / 통계치 보기를 할 수 있습니다.')
 
